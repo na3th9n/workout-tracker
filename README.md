@@ -1,4 +1,4 @@
-# HEVY Workout Tracker
+# Workout Tracker
 
 ## Overview
 
